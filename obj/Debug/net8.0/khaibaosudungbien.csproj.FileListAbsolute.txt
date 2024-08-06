@@ -1,0 +1,14 @@
+E:\khaibaosudungbien\bin\Debug\net8.0\khaibaosudungbien.exe
+E:\khaibaosudungbien\bin\Debug\net8.0\khaibaosudungbien.deps.json
+E:\khaibaosudungbien\bin\Debug\net8.0\khaibaosudungbien.runtimeconfig.json
+E:\khaibaosudungbien\bin\Debug\net8.0\khaibaosudungbien.dll
+E:\khaibaosudungbien\bin\Debug\net8.0\khaibaosudungbien.pdb
+E:\khaibaosudungbien\obj\Debug\net8.0\khaibaosudungbien.GeneratedMSBuildEditorConfig.editorconfig
+E:\khaibaosudungbien\obj\Debug\net8.0\khaibaosudungbien.AssemblyInfoInputs.cache
+E:\khaibaosudungbien\obj\Debug\net8.0\khaibaosudungbien.AssemblyInfo.cs
+E:\khaibaosudungbien\obj\Debug\net8.0\khaibaosudungbien.csproj.CoreCompileInputs.cache
+E:\khaibaosudungbien\obj\Debug\net8.0\khaibaosudungbien.dll
+E:\khaibaosudungbien\obj\Debug\net8.0\refint\khaibaosudungbien.dll
+E:\khaibaosudungbien\obj\Debug\net8.0\khaibaosudungbien.pdb
+E:\khaibaosudungbien\obj\Debug\net8.0\khaibaosudungbien.genruntimeconfig.cache
+E:\khaibaosudungbien\obj\Debug\net8.0\ref\khaibaosudungbien.dll
